@@ -1,4 +1,4 @@
-# Online-Food-Order-Sysytem
+# Online-Food-Order-System
 This Repository contains Multi-Process Embedded Linux System.
 
 🎯 1. Scenario Selection & Problem Understanding 
