@@ -1,9 +1,9 @@
 # Online-Food-Order-Sysytem
 This Repository contains Multi-Process Embedded Linux System.
+
 🎯 1. Scenario Selection & Problem Understanding 
 
 Modern food platforms like Swiggy and Zomato must:
-
 Handle multiple incoming orders concurrently
 Process them asynchronously
 Maintain logs and system reliability
